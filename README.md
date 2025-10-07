@@ -15,3 +15,9 @@ https://davidssouza050.github.io/PortalDeNoticias
 
 O News Portal é uma página criada para treinar conceitos de layout com CSS Grid, aplicando boas práticas de posicionamento e espaçamento.
 O foco principal foi desenvolver uma estrutura visual limpa, organizada e fácil de navegar — ideal para portais de conteúdo.
+
+##
+
+A resposividade foi feita separadamente deste projeto! Acesse o link abaixo para conferir!
+
+https://github.com/DavidSSouza050/Desafio_responsividade
